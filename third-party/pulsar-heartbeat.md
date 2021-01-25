@@ -2,7 +2,6 @@
 
 Pulsar Heartbeat monitors Pulsar cluster availability, tracks latency of Pulsar message pub/sub, and reports failures of the Pulsar cluster. Pulsar Heartbeat produces synthetic workloads to measure end-to-end message pubsub latency.
 
-
 |Title           |Version                                 |License                                                                                              |
 |----------------|----------------------------------------|-----------------------------------------------------------------------------------------------------|
 |api             |fcac651617f2c6b75a129dc2dcbdfd3aa8b0aa1c|Apache-2.0                                                                                           |
