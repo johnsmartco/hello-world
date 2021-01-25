@@ -1,4 +1,4 @@
-= Burnell third-party software
+# Burnell third-party software
 
 Burnell is a proxy in a Pulsar cluster.
 
