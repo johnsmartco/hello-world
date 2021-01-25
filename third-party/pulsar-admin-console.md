@@ -2,6 +2,8 @@
 
 Pulsar Admin Console is a web-based UI that administrates topics, namespaces, sources, sinks and various aspects of Apache Pulsar features.
 
+Third-party software:
+
 
 |Title                     |Version      |License                                                                                          |
 |--------------------------|-------------|-------------------------------------------------------------------------------------------------|
