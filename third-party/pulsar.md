@@ -1,10 +1,12 @@
 
-# DataStax Luna Streaming third-party software
+# Pulsar third-party software
+
+Pulsar is a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 
 DataStax Luna Streaming is a production-ready distribution of Apache Pulsar built to run seamlessly on any CNCF conformant version of Kubernetes. DataStax Luna Streaming provides all of the core capabilities included in the Apache Community version of Apache Pulsar, plus a number of additional tools and features to facilitate administration and operational tasks associated with running Apache Pulsar in production.
 
 
-|Title                                                                |Version                                 |Declared License                                                                                                                                                                                                                                                                                                                                                    |
+|Title                                                                |Version                                 |License                                                                                                                                                                                                                                                                                                                                                    |
 |---------------------------------------------------------------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |@FreeBuilder                                                         |1.14.9                                  |Apache-2.0                                                                                                                                                                                                                                                                                                                                                          |
 |Aerospike Java Client BC                                             |4.4.8                                   |Aerospike Client License; Apache-2.0                                                                                                                                                                                                                                                                                                                                |

@@ -1,8 +1,6 @@
 # Pulsar Heartbeat third-party software
 
-Pulsar Heartbeat monitors Pulsar cluster availability, tracks latency of Pulsar message pub/sub, and reports failures of the Pulsar cluster. 
-
-Pulsar Heartbeat as distributed by DataStax produces synthetic workloads to measure end-to-end message pubsub latency.
+Pulsar Heartbeat monitors Pulsar cluster availability, tracks latency of Pulsar message pub/sub, and reports failures of the Pulsar cluster. Pulsar Heartbeat produces synthetic workloads to measure end-to-end message pubsub latency.
 
 
 |Title           |Version                                 |License                                                                                              |
